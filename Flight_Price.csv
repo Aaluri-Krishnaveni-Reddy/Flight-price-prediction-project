@@ -1,0 +1,172 @@
+,Airline_Name,Source,Destination,Departure_Time,Arrive_Time,Duration,Stops,Price
+0,Air Asia,New Delhi,Mumbai,12:40,20:15,7h 35m,1 Stop,"5,953"
+1,Air Asia,New Delhi,Mumbai,11:55,20:15,8h 20m,1 Stop,"5,953"
+2,Air Asia,New Delhi,Mumbai,08:00,16:35,8h 35m,1 Stop,"5,953"
+3,Air Asia,New Delhi,Mumbai,04:55,14:15,9h 20m,1 Stop,"5,953"
+4,Air Asia,New Delhi,Mumbai,18:35,"06:20
++ 1 day",11h 45m,1 Stop,"5,953"
+5,Air Asia,New Delhi,Mumbai,16:15,"06:20
++ 1 day",14h 05m,1 Stop,"5,953"
+6,Air Asia,New Delhi,Mumbai,05:20,20:15,14h 55m,1 Stop,"5,953"
+7,Go First,New Delhi,Mumbai,18:50,20:45,1h 55m,Non Stop,"5,954"
+8,Go First,New Delhi,Mumbai,09:05,11:05,2h 00m,Non Stop,"5,954"
+9,Go First,New Delhi,Mumbai,06:15,08:20,2h 05m,Non Stop,"5,954"
+10,Go First,New Delhi,Mumbai,14:20,16:25,2h 05m,Non Stop,"5,954"
+11,Go First,New Delhi,Mumbai,22:45,"00:50
++ 1 day",2h 05m,Non Stop,"5,954"
+12,Go First,New Delhi,Mumbai,17:45,22:25,4h 40m,1 Stop,"5,954"
+13,Go First,New Delhi,Mumbai,15:30,21:05,5h 35m,1 Stop,"5,954"
+14,Go First,New Delhi,Mumbai,13:30,19:20,5h 50m,1 Stop,"5,954"
+15,Go First,New Delhi,Mumbai,08:50,15:45,6h 55m,1 Stop,"5,954"
+16,Go First,New Delhi,Mumbai,15:30,22:45,7h 15m,1 Stop,"5,954"
+17,Vistara,New Delhi,Mumbai,06:00,08:00,2h 00m,Non Stop,"5,955"
+18,SpiceJet,New Delhi,Mumbai,18:40,20:40,2h 00m,Non Stop,"5,955"
+19,Air India,New Delhi,Mumbai,07:00,09:05,2h 05m,Non Stop,"5,955"
+20,IndiGo,New Delhi,Mumbai,12:00,14:05,2h 05m,Non Stop,"5,955"
+21,IndiGo,New Delhi,Mumbai,14:00,16:05,2h 05m,Non Stop,"5,955"
+22,Vistara,New Delhi,Mumbai,15:10,17:15,2h 05m,Non Stop,"5,955"
+23,IndiGo,New Delhi,Mumbai,20:30,22:35,2h 05m,Non Stop,"5,955"
+24,IndiGo,New Delhi,Mumbai,05:00,07:10,2h 10m,Non Stop,"5,955"
+25,IndiGo,New Delhi,Mumbai,06:10,08:20,2h 10m,Non Stop,"5,955"
+26,Air India,New Delhi,Mumbai,08:00,10:10,2h 10m,Non Stop,"5,955"
+27,IndiGo,New Delhi,Mumbai,08:55,11:05,2h 10m,Non Stop,"5,955"
+28,Air India,New Delhi,Mumbai,10:40,12:50,2h 10m,Non Stop,"5,955"
+29,Vistara,New Delhi,Mumbai,12:45,14:55,2h 10m,Non Stop,"5,955"
+30,Vistara,New Delhi,Mumbai,16:55,19:05,2h 10m,Non Stop,"5,955"
+31,Air India,New Delhi,Mumbai,20:00,22:10,2h 10m,Non Stop,"5,955"
+32,Vistara,New Delhi,Mumbai,21:40,23:50,2h 10m,Non Stop,"5,955"
+33,IndiGo,New Delhi,Mumbai,21:55,"00:05
++ 1 day",2h 10m,Non Stop,"5,955"
+34,Vistara,New Delhi,Mumbai,07:30,09:45,2h 15m,Non Stop,"5,955"
+35,Air India,New Delhi,Mumbai,09:00,11:15,2h 15m,Non Stop,"5,955"
+36,IndiGo,New Delhi,Mumbai,15:35,17:50,2h 15m,Non Stop,"5,955"
+37,Air India,New Delhi,Mumbai,19:00,21:15,2h 15m,Non Stop,"5,955"
+38,Vistara,New Delhi,Mumbai,19:45,22:00,2h 15m,Non Stop,"5,955"
+39,Vistara,New Delhi,Mumbai,08:50,11:10,2h 20m,Non Stop,"5,955"
+40,Vistara,New Delhi,Mumbai,17:45,20:05,2h 20m,Non Stop,"5,955"
+41,Vistara,New Delhi,Mumbai,18:55,21:15,2h 20m,Non Stop,"5,955"
+42,SpiceJet,New Delhi,Mumbai,20:20,22:40,2h 20m,Non Stop,"5,955"
+43,IndiGo,New Delhi,Mumbai,17:45,20:10,2h 25m,Non Stop,"5,955"
+44,SpiceJet,New Delhi,Mumbai,06:35,10:10,3h 35m,1 Stop,"5,955"
+45,Air India,New Delhi,Mumbai,17:50,21:35,3h 45m,1 Stop,"5,955"
+46,IndiGo,New Delhi,Mumbai,13:45,17:45,4h 00m,1 Stop,"5,955"
+47,IndiGo,New Delhi,Mumbai,08:55,13:10,4h 15m,1 Stop,"5,955"
+48,IndiGo,New Delhi,Mumbai,18:10,22:35,4h 25m,1 Stop,"5,955"
+49,IndiGo,New Delhi,Mumbai,13:40,18:35,4h 55m,1 Stop,"5,955"
+50,IndiGo,New Delhi,Mumbai,08:10,13:10,5h 00m,1 Stop,"5,955"
+51,IndiGo,New Delhi,Mumbai,13:50,19:30,5h 40m,1 Stop,"5,955"
+52,IndiGo,New Delhi,Mumbai,07:20,13:10,5h 50m,1 Stop,"5,955"
+53,IndiGo,New Delhi,Mumbai,11:30,18:45,7h 15m,1 Stop,"5,955"
+54,IndiGo,New Delhi,Mumbai,13:50,21:30,7h 40m,1 Stop,"5,955"
+55,IndiGo,New Delhi,Mumbai,08:55,16:40,7h 45m,1 Stop,"5,955"
+56,IndiGo,New Delhi,Mumbai,07:20,16:40,9h 20m,1 Stop,"5,955"
+57,IndiGo,New Delhi,Mumbai,08:10,17:45,9h 35m,1 Stop,"5,955"
+58,IndiGo,New Delhi,Mumbai,12:30,22:35,10h 05m,1 Stop,"5,955"
+59,IndiGo,New Delhi,Mumbai,08:10,18:45,10h 35m,1 Stop,"5,955"
+60,IndiGo,New Delhi,Mumbai,08:55,19:30,10h 35m,1 Stop,"5,955"
+61,Air Asia,New Delhi,Mumbai,19:55,22:15,2h 20m,Non Stop,"5,956"
+62,Vistara,New Delhi,Mumbai,09:30,11:40,2h 10m,Non Stop,"6,060"
+63,Vistara,New Delhi,Mumbai,10:20,12:30,2h 10m,Non Stop,"6,060"
+64,IndiGo,New Delhi,Mumbai,10:10,12:25,2h 15m,Non Stop,"6,165"
+65,Air India,New Delhi,Mumbai,15:05,18:15,3h 10m,1 Stop,"6,795"
+66,Air India,New Delhi,Mumbai,20:00,"09:40
++ 1 day",13h 40m,1 Stop,"7,468"
+67,Air India,New Delhi,Mumbai,12:00,15:50,3h 50m,1 Stop,"8,160"
+68,Air India,New Delhi,Mumbai,07:15,15:50,8h 35m,1 Stop,"8,948"
+69,Air India,New Delhi,Mumbai,20:10,"20:00
++ 1 day",23h 50m,1 Stop,"9,000"
+70,Air India,New Delhi,Mumbai,06:05,16:25,10h 20m,3 Stop(s),"9,590"
+71,Vistara,New Delhi,Mumbai,17:45,23:00,5h 15m,1 Stop,"9,840"
+72,Air India,New Delhi,Mumbai,07:10,13:25,6h 15m,1 Stop,"9,840"
+73,Vistara,New Delhi,Mumbai,07:10,15:00,7h 50m,1 Stop,"9,840"
+74,Vistara,New Delhi,Mumbai,14:45,23:00,8h 15m,1 Stop,"9,840"
+75,Air India,New Delhi,Mumbai,21:25,"07:10
++ 1 day",9h 45m,1 Stop,"9,840"
+76,Air India,New Delhi,Mumbai,21:25,"09:40
++ 1 day",12h 15m,1 Stop,"9,840"
+77,Vistara,New Delhi,Mumbai,07:10,23:00,15h 50m,1 Stop,"9,840"
+78,Vistara,New Delhi,Mumbai,17:45,"10:40
++ 1 day",16h 55m,1 Stop,"9,840"
+79,Air India,New Delhi,Mumbai,18:30,"13:25
++ 1 day",18h 55m,1 Stop,"9,840"
+80,Vistara,New Delhi,Mumbai,14:45,"10:40
++ 1 day",19h 55m,1 Stop,"9,840"
+81,Vistara,New Delhi,Mumbai,17:45,"15:00
++ 1 day",21h 15m,1 Stop,"9,840"
+82,Vistara,New Delhi,Mumbai,14:45,"15:00
++ 1 day",24h 15m,1 Stop,"9,840"
+83,Air India,New Delhi,Mumbai,13:00,"13:25
++ 1 day",24h 25m,1 Stop,"9,840"
+84,Air India,New Delhi,Mumbai,21:25,"23:30
++ 1 day",26h 05m,1 Stop,"9,840"
+85,Vistara,New Delhi,Mumbai,07:10,"10:40
++ 1 day",27h 30m,1 Stop,"9,840"
+86,IndiGo,New Delhi,Mumbai,07:40,16:50,9h 10m,1 Stop,"10,349"
+87,Go First,New Delhi,Mumbai,12:35,19:20,6h 45m,1 Stop,"10,575"
+88,Vistara,New Delhi,Mumbai,13:20,18:20,5h 00m,1 Stop,"10,680"
+89,Air India,New Delhi,Mumbai,10:35,15:40,5h 05m,1 Stop,"10,680"
+90,Air India,New Delhi,Mumbai,09:45,23:30,13h 45m,1 Stop,"10,680"
+91,Air India,New Delhi,Mumbai,09:45,"07:10
++ 1 day",21h 25m,1 Stop,"10,680"
+92,Air India,New Delhi,Mumbai,09:45,"09:40
++ 1 day",23h 55m,1 Stop,"10,680"
+93,Vistara,New Delhi,Mumbai,17:10,21:35,4h 25m,1 Stop,"11,468"
+94,Vistara,New Delhi,Mumbai,13:40,21:35,7h 55m,1 Stop,"11,468"
+95,Vistara,New Delhi,Mumbai,17:10,"15:00
++ 1 day",21h 50m,1 Stop,"11,888"
+96,Vistara,New Delhi,Mumbai,13:40,"15:00
++ 1 day",25h 20m,1 Stop,"11,888"
+97,Vistara,New Delhi,Mumbai,16:05,21:50,5h 45m,1 Stop,"12,150"
+98,Vistara,New Delhi,Mumbai,20:40,"08:25
++ 1 day",11h 45m,1 Stop,"12,150"
+99,Vistara,New Delhi,Mumbai,19:50,"08:25
++ 1 day",12h 35m,1 Stop,"12,150"
+100,Vistara,New Delhi,Mumbai,17:35,"08:25
++ 1 day",14h 50m,1 Stop,"12,150"
+101,Vistara,New Delhi,Mumbai,16:05,"08:25
++ 1 day",16h 20m,1 Stop,"12,150"
+102,Vistara,New Delhi,Mumbai,20:40,"20:15
++ 1 day",23h 35m,1 Stop,"12,150"
+103,Vistara,New Delhi,Mumbai,19:50,"20:15
++ 1 day",24h 25m,1 Stop,"12,150"
+104,Air India,New Delhi,Mumbai,21:15,"14:25
++ 1 day",17h 10m,1 Stop,"12,215"
+105,Vistara,New Delhi,Mumbai,14:10,20:15,6h 05m,1 Stop,"12,255"
+106,Vistara,New Delhi,Mumbai,14:10,21:50,7h 40m,1 Stop,"12,255"
+107,Go First,New Delhi,Mumbai,12:20,18:15,5h 55m,1 Stop,"12,345"
+108,Go First,New Delhi,Mumbai,11:20,18:15,6h 55m,1 Stop,"12,345"
+109,Vistara,New Delhi,Mumbai,08:10,20:15,12h 05m,1 Stop,"12,570"
+110,Vistara,New Delhi,Mumbai,08:10,21:50,13h 40m,1 Stop,"12,570"
+111,Vistara,New Delhi,Mumbai,07:30,13:00,5h 30m,1 Stop,"12,990"
+112,Vistara,New Delhi,Mumbai,06:20,13:00,6h 40m,1 Stop,"12,990"
+113,Vistara,New Delhi,Mumbai,07:30,20:20,12h 50m,1 Stop,"12,990"
+114,Vistara,New Delhi,Mumbai,06:20,20:20,14h 00m,1 Stop,"12,990"
+115,Vistara,New Delhi,Mumbai,07:30,23:15,15h 45m,1 Stop,"12,990"
+116,Vistara,New Delhi,Mumbai,06:20,23:15,16h 55m,1 Stop,"12,990"
+117,IndiGo,New Delhi,Mumbai,13:10,18:35,5h 25m,1 Stop,"13,148"
+118,Vistara,New Delhi,Mumbai,17:30,23:15,5h 45m,1 Stop,"13,410"
+119,Air India,New Delhi,Mumbai,13:00,19:25,6h 25m,1 Stop,"14,083"
+120,Vistara,New Delhi,Mumbai,20:40,"11:25
++ 1 day",14h 45m,1 Stop,"14,093"
+121,Vistara,New Delhi,Mumbai,19:50,"11:25
++ 1 day",15h 35m,1 Stop,"14,093"
+122,Vistara,New Delhi,Mumbai,17:35,"11:25
++ 1 day",17h 50m,1 Stop,"14,093"
+123,Air India,New Delhi,Mumbai,06:20,20:00,13h 40m,1 Stop,"15,038"
+124,Vistara,New Delhi,Mumbai,08:15,14:45,6h 30m,1 Stop,"15,090"
+125,Vistara,New Delhi,Mumbai,17:10,"14:45
++ 1 day",21h 35m,1 Stop,"15,090"
+126,Vistara,New Delhi,Mumbai,11:10,"14:45
++ 1 day",27h 35m,1 Stop,"15,090"
+127,Air India,New Delhi,Mumbai,16:35,23:30,6h 55m,1 Stop,"15,195"
+128,Air India,New Delhi,Mumbai,16:35,"07:10
++ 1 day",14h 35m,1 Stop,"15,195"
+129,Air India,New Delhi,Mumbai,16:35,"09:40
++ 1 day",17h 05m,1 Stop,"15,195"
+130,Go First,New Delhi,Mumbai,09:10,18:15,9h 05m,1 Stop,"15,495"
+131,Vistara,New Delhi,Mumbai,20:30,"20:20
++ 1 day",23h 50m,1 Stop,"15,615"
+132,Go First,New Delhi,Mumbai,08:10,13:00,4h 50m,1 Stop,"17,505"
+133,Go First,New Delhi,Mumbai,08:10,14:55,6h 45m,1 Stop,"17,505"
+134,Go First,New Delhi,Mumbai,08:10,15:40,7h 30m,1 Stop,"17,505"
+135,Go First,New Delhi,Mumbai,08:10,17:30,9h 20m,1 Stop,"17,505"
